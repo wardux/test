@@ -118,38 +118,38 @@ button:hover{
   /* background-color: red; */
 }
 
-.top__section .social-media{
+.social-media{
   display: flex;
   padding-bottom: 10px;
   /* justify-content: space-between; */
 }
 
-.top__section .social-media .button{
+.social-media .button{
   /* display: inline-block; */
   height: 30px;
   width: 40px;
-  font-size: 20px;
+  font-size: 25px;
   /* background-color: red; */
   cursor: pointer;
 }
 
-.top__section .social-media .button .icon{
+.social-media .button .icon{
   color: #fff;
 }
 
-.top__section .social-media .button:nth-child(1):hover .icon{
+.social-media .button:nth-child(1):hover .icon{
   color: blue;
 }
 
-.top__section .social-media .button:nth-child(2):hover .icon{
+.social-media .button:nth-child(2):hover .icon{
   color: magenta;
 }
 
-.top__section .social-media .button:nth-child(3):hover .icon{
+.social-media .button:nth-child(3):hover .icon{
   color: red;
 }
 
-.top__section .social-media .button:nth-child(4):hover .icon{
+.social-media .button:nth-child(4):hover .icon{
   color: gold;
 }
 
@@ -272,7 +272,7 @@ header button{
 }
 .footer-section-1 .footer-logo{
   position: absolute;
-  margin-left: 640px;
+  margin-left: 720px;
   height: 60px;
   margin-top: 10px;
   /* background-color: red; */
